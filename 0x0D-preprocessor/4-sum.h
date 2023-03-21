@@ -1,1 +1,7 @@
-4-sum.h
+#ifndef SUM_H
+#define SUM_H
+
+#define SUM(x, y) ((x) + (y))
+
+#endif
+
